@@ -6,7 +6,7 @@
 
 Thank you for looking here :)
 
-LIVE:
+LIVE: https://xbuzax.github.io/HuddleLandingPage/
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
